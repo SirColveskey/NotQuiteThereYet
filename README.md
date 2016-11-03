@@ -4,7 +4,7 @@
 
     - Needs to display a map
 	  
-    * Add a search function?
+    	- Add a search function?
 		  
     - Allow user to pick a location
 	  
