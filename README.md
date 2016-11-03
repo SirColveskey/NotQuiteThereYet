@@ -2,13 +2,13 @@
 
 * Splash Screen 1:
 
-    Needs to display a map
+    - Needs to display a map
 	  
-          Add a search function?
+    * Add a search function?
 		  
-    Allow user to pick a location
+    - Allow user to pick a location
 	  
-    Saves the destination location
+    - Saves the destination location
 	  
     Has a confirm/set button
 	  
@@ -28,7 +28,7 @@
 
     Needs to take the destination and display it on a map
 	  
-          Show the radius
+    Show the radius
 		
     Needs to create a radius selector
 	  
