@@ -44,5 +44,15 @@
     - Starts the GPS service
 	  
     - Needs to have a list of contacts which are selectable
+    
+* Service:
+
+    - Polls location
+    
+    - Checks distance from landmark against list
+    
+    - If hasn't been triggered yet sends a sms to the contacts list
+    
+    - Stops after text is sent
 	  
 
